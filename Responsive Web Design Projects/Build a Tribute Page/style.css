@@ -1,0 +1,37 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+#main {
+    background-color: darkgray;
+    text-align: center;
+    padding: 5px;
+}
+#title {
+    margin: 10px;
+}
+#img-div {
+    background-color: whitesmoke;
+    margin: 15px;
+    border-radius: 2.5%;
+}
+#image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    max-width: 90%;
+    border-radius: 10%;
+}
+#tribute-text {
+    margin-bottom: 10px;;
+}
+#tribute-info h3 {
+    padding: 0.5% 0.5% 0.5% 0.5%;
+}
+#tribute-info ul {
+    padding: 0.5% 0.5% 0.5% 40%;
+}
+#tribute-references {
+    margin: 10px;
+}
