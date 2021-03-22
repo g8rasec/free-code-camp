@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Stack Love</title>
+    </head>
+    <body>
+        <h1 id="title">Stack Love Survey Form</h1>
+        <p id="description">Thank you for taking the time to contribute to the community</p>
+        <form id="survey-form" action="">
+            <label for="name" id="name-label">Name</label>
+            <input type="text" name="name" id="name" placeholder="Enter your Name" required>
+            <label for="email" id="email-label">Email</label>
+            <input type="email" name="email" id="email" placeholder="Enter your Email" required>
+            <label for="number" id="number-label">Age</label>
+            <input type="number" id="number" min="10" max="99" placeholder="Age">
+            <select name="select" id="dropdown">
+                <option value="Web">Front-End</option>
+                <option value="Mobile">Back-End</option>
+                <option value="Desktop">Full Stack</option>
+                <option value="Embarcadp">DevOps</option>
+                <option value="Others">Other</option>
+            </select>
+            <p>Plataforms</p>
+            <label>
+                <input name="plataform" type="radio" value="Web">
+                Web
+            </label>
+            <label>
+                <input name="plataform" type="radio" value="Mobile">
+                Mobile
+            </label>
+            <label>
+                <input name="plataform" type="radio" value="Embarcados">
+                Embarcados
+            </label>
+            <label>
+                <input name="plataform" type="radio" value="Other">
+                Other
+            </label>
+            <p>Choose your languages - technologies</p>
+            <label for="">
+                <input type="checkbox" name="technology" value="Javascript">
+                Javascript
+            </label>
+            <label for="">
+                <input type="checkbox" name="technology" value="Java">
+                Java
+            </label>
+            <label for="">
+                <input type="checkbox" name="technology" value="PHP">
+                PHP
+            </label>
+            <label for="">
+                <input type="checkbox" name="technology" value="C#">
+                C#
+            </label>
+            <label for="">
+                <input type="checkbox" name="technology" value="Python">
+                Python
+            </label>
+            <label for="">
+                <input type="checkbox" name="technology" value="Delphi">
+                Delphi
+            </label>
+            <label for="">
+                <input type="checkbox" name="technology" value="Typescript">
+                Typescript
+            </label>
+            <label for="">
+                <input type="checkbox" name="technology" value="Ruby">
+                Ruby
+            </label>
+            <label for="">
+                <input type="checkbox" name="technology" value="Kotlin">
+                Kotlin
+            </label>
+            <label for="">
+                <input type="checkbox" name="technology" value="Dart">
+                Dart
+            </label>
+            <p>Any comments or suggestions?</p>
+            <textarea name="comment" id="comments" cols="30" rows="10" placeholder="Enter your comment here..."></textarea>
+            <button type="submit" id="submit">Submit</button>
+        </form>
+        <script src="https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js">
+        </script>
+    </body>
+</html>
