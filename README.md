@@ -1,6 +1,6 @@
 # [freeCodeCamp](https://www.freecodecamp.org/) Challenge Journey
 
-The are my solutions to the challenges of freeCodeCamp
+They are my solutions to the challenges of freeCodeCamp
 
 ### [Responsive Web Design](https://www.freecodecamp.org/learn/responsive-web-design/)
 
