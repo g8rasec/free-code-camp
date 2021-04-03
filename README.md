@@ -1,8 +1,6 @@
 # [freeCodeCamp](https://www.freecodecamp.org/) Challenge Journey
 
-They are my solutions to the challenges of freeCodeCamp
-
-[CODEPEN](https://codepen.io/dasilvaguicesar)
+They are my solutions to the challenges of freeCodeCamp => [CODEPEN](https://codepen.io/dasilvaguicesar)
 
 ### [Responsive Web Design](https://www.freecodecamp.org/learn/responsive-web-design/)
 
