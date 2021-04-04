@@ -9,48 +9,96 @@ body {
     font-family: 'Lato', sans-serif;
 }
 
-#header {
-    background-color: #010101;
-    position: fixed;
-    display: flex;
-    width: 100%;
+
+@media (max-width: 800px) {
+    #header {
+        background-color: #010101;
+        position: fixed;
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+    }
+    
+    #brand-container {
+        display: flex;
+        flex-direction: row;
+    }
+    
+    #header-img {
+        width: 10rem;
+    }
+    
+    #header h1 {
+        color: whitesmoke;
+        padding-top: 0.7rem;
+        font-family: 'Architects Daughter', cursive;
+        font-size: 1.7rem;
+    }
+
+    #nav-bar {
+        width: 100%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    
+    #nav-bar ul {
+        display: flex;
+        justify-content: space-between;
+        width: 80vw;
+        list-style: none;
+        padding: 0.5rem;
+    }
+    
+    .nav-link {
+        color: whitesmoke;
+        text-decoration: none;
+        font-weight: bold;
+    }
 }
 
-#header img {
-    width: 100px;
-    height: 50%;
-}
 
-#header h1 {
-    color: whitesmoke;
-    width: 100%;
-    padding: 10px;
-    font-family: 'Architects Daughter', cursive;
-}
+@media (min-width: 800px) {
 
-#nav-bar {
-    float: right;
-    flex-direction: row;
-}
+    #header {
+        background-color: #010101;
+        position: fixed;
+        display: flex;
+        width: 100%;
+    }
 
-#nav-bar ul {
-    font-weight: 600;
-    width: 40vw;
-    padding: 20px;
-    margin-right: 40px;
-    height: 100%;
-    display: flex;
-    justify-content: space-between;
-}
+    #brand-container {
+        display: flex;
+    }
+    
+    #header-img {
+        width: 10rem;
+    }
+    
+    #header h1 {
+        padding-top: 1.8rem;
+        color: whitesmoke;
+        font-family: 'Architects Daughter', cursive;
+    }
 
-#nav-bar li {
-    list-style: none;
+    #navbar-container {
+        margin-left: auto;
+    }
+    
+    #nav-bar ul {
+        display: flex;
+        padding-top: 2.5rem;
+        justify-content: space-around;
+        width: 40vw;
+        font-weight: bold;
+    }
+    
+    .nav-link {
+        list-style: none;
+        color: whitesmoke;
+        text-decoration: none;
+    }
 }
-
-.nav-link {
-    color: whitesmoke;
-    text-decoration: none;
-  }
 
 #description-container {
     background-color: white;
@@ -146,9 +194,8 @@ body {
 
 #submit {
     margin-top: 5%;
-    margin-left: 25%;
-    width: 50%;
-    height: 15%;
+    margin-left: 38%;
+    width: 20%;
     color: seashell;
     font-weight: bold;
     background-color: seagreen;
@@ -181,12 +228,39 @@ body {
     margin-bottom: 2%;
 }
 
-#contact {
-    padding: 5%;
+#contact-container p {
+    padding: 5% 0% 0% 5%;
+    color: rgb(88, 88, 88);
+    font-weight: bold;
+    font-size: 130%;
 }
 
-#contact a {
-    text-decoration: underline;
+#contact {
+    padding: 2% 0% 2% 5%;
+}
+#contact h3 {
+    padding: 1%;
+    font-size: 90%;
+}
+
+#address i {
+    font-size: 1em;
+    color: rgb(37, 34, 34);
+}
+
+#phone i {
+    font-size: 1em;
+    color: black;
+}
+
+#whatsapp i {
+    font-size: 1.3em;
+    color: #4bca5a;
+}
+
+#email i {
+    font-size: 1.2em;
+    height: 1%;
 }
 
 #whatsapp-container img {
