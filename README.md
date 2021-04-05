@@ -14,6 +14,6 @@ They are my solutions to the challenges of freeCodeCamp => [CODEPEN](https://cod
 - Responsive Web Design Projects
 	- Build a Tribute Page :heavy_check_mark:
 	- Build a Survey Form :heavy_check_mark:
-	- Build a Product Landing Page
+	- Build a Product Landing Page :heavy_check_mark:
 	- Build a Technical Documentation Page
 	- Build a Personal Portfolio Webpage
