@@ -1,6 +1,6 @@
 # [freeCodeCamp](https://www.freecodecamp.org/) Challenge Journey
 
-They are my solutions to the challenges of freeCodeCamp => [CODEPEN](https://codepen.io/dasilvaguicesar)
+They are my solutions to the challenges of freeCodeCamp
 
 ### [Responsive Web Design](https://www.freecodecamp.org/learn/responsive-web-design/)
 
@@ -12,8 +12,8 @@ They are my solutions to the challenges of freeCodeCamp => [CODEPEN](https://cod
 - CSS Flexbox
 - CSS Grid
 - Responsive Web Design Projects
-	- Build a Tribute Page :heavy_check_mark:
-	- Build a Survey Form :heavy_check_mark:
-	- Build a Product Landing Page :heavy_check_mark:
-	- Build a Technical Documentation Page
-	- Build a Personal Portfolio Webpage
+	- [Build a Tribute Page](https://codepen.io/dasilvaguicesar/pen/jOVgZvE) :heavy_check_mark:  
+	- [Build a Survey Form](https://codepen.io/dasilvaguicesar/pen/eYgOeeR) :heavy_check_mark:
+	- [Build a Product Landing Page](https://codepen.io/dasilvaguicesar/pen/RwKgwGg) :heavy_check_mark:
+	- [Build a Technical Documentation Page](https://codepen.io/dasilvaguicesar/details/abpXWXW) :heavy_check_mark:
+	- [Build a Personal Portfolio Webpage](https://codepen.io/dasilvaguicesar/pen/poRGwEE)
