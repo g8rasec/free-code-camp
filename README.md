@@ -15,5 +15,5 @@ They are my solutions to the challenges of freeCodeCamp
 	- [Build a Tribute Page](https://codepen.io/dasilvaguicesar/pen/jOVgZvE) :heavy_check_mark:  
 	- [Build a Survey Form](https://codepen.io/dasilvaguicesar/pen/eYgOeeR) :heavy_check_mark:
 	- [Build a Product Landing Page](https://codepen.io/dasilvaguicesar/pen/RwKgwGg) :heavy_check_mark:
-	- [Build a Technical Documentation Page](https://codepen.io/dasilvaguicesar/details/abpXWXW) :heavy_check_mark:
+	- [Build a Technical Documentation Page](https://codepen.io/dasilvaguicesar/pen/abpXWXW) :heavy_check_mark: 
 	- [Build a Personal Portfolio Webpage](https://codepen.io/dasilvaguicesar/pen/poRGwEE)
